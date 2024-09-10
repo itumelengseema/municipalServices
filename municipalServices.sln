@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "municipalServices", "municipalServices\municipalServices.csproj", "{E5D89F46-4D37-4E70-830C-FA958E1969D3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{FD77A8C1-EC43-4255-AEF5-ABF4C9836C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D89F46-4D37-4E70-830C-FA958E1969D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D89F46-4D37-4E70-830C-FA958E1969D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D89F46-4D37-4E70-830C-FA958E1969D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D89F46-4D37-4E70-830C-FA958E1969D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD77A8C1-EC43-4255-AEF5-ABF4C9836C74}.Debug|Any CPU.ActiveCfg = Debug
+		{FD77A8C1-EC43-4255-AEF5-ABF4C9836C74}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BBD51EA-D7BD-4FC0-8307-65C325663881}
+	EndGlobalSection
+EndGlobal
